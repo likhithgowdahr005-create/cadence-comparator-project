@@ -24,5 +24,12 @@ The `screenshots/` folder contains:
 - Comparator schematic
 - Transient response waveform
 
-## Author
-Likhith Gowda H R
+## Project Team
+
+This project was carried out as a group mini-project.
+
+### Team Members
+- Likhith Gowda H R –  Comparator design, GitHub management
+- Dhruthi Sridhar   –  Testbench development,Transient simulation and waveform analysis
+- Adith Soragu      –  Documentation and verification
+
